@@ -53,7 +53,3 @@ It supports searching, filtering, sorting, pagination, and detailed product view
 - **Tailwind CSS**
 - **Axios**
 - **React Router DOM**
-
-
-
-## 📂 Folder Structure
