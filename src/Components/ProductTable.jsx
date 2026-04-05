@@ -203,7 +203,7 @@ const ProductTable = () => {
         columns={columns} //columns section head
         paginationMode="server"  //pagination from server
         rowCount={rowCount}   
-        pageSizeOptions={[5]}
+        pageSizeOptions={[5,10,15]}
         rowHeight={80}
         paginationModel={pagination}
         onPaginationModelChange={(page)=>setPagination(page)}
